@@ -1,0 +1,6 @@
+{
+  "name": "Safaricom Card Recovery Simulator",
+  "description": "An interactive Safaricom internal hackathon simulator for overscratched scratch card recovery using partial PIN matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
