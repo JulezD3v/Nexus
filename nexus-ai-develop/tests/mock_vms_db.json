@@ -1,0 +1,68 @@
+[
+  {
+    "serial_number": "2506200057796095",
+    "true_pin": "8517999953175012",
+    "status": "unused",
+    "amount": 250,
+    "expiry_date": "20-06-2027",
+    "batch_id": "B-410",
+    "region": "Nairobi"
+  },
+  {
+    "serial_number": "2506200057796099",
+    "true_pin": "1111222233334444",
+    "status": "unused",
+    "amount": 100,
+    "expiry_date": "20-06-2027",
+    "batch_id": "B-410",
+    "region": "Nairobi",
+    "note": "DECOY: Used to prove the Matcher resolves Fuzzy Serial Collisions using the PIN."
+  },
+  {
+    "serial_number": "2512020046896530",
+    "true_pin": "6274673814584384",
+    "status": "unused",
+    "amount": 50,
+    "expiry_date": "02-12-2027",
+    "batch_id": "B-112",
+    "region": "Mombasa"
+  },
+  {
+    "serial_number": "2547000011112222",
+    "true_pin": "1234567890123456",
+    "status": "used",
+    "amount": 1000,
+    "expiry_date": "01-01-2029",
+    "batch_id": "B-999",
+    "region": "Kisumu",
+    "note": "FRAUD TEST: Already used voucher to test rejection."
+  },
+  {
+    "serial_number": "2547999988887777",
+    "true_pin": "9876543210987654",
+    "status": "unused",
+    "amount": 500,
+    "expiry_date": "01-01-2022",
+    "batch_id": "B-001",
+    "region": "Nakuru",
+    "note": "EXPIRY TEST: Card is physically expired."
+  },
+  {
+    "serial_number": "2506200012345678",
+    "true_pin": "5555666677778888",
+    "status": "unused",
+    "amount": 100,
+    "expiry_date": "15-08-2028",
+    "batch_id": "B-410",
+    "region": "Nairobi"
+  },
+  {
+    "serial_number": "2506200087654321",
+    "true_pin": "4444333322221111",
+    "status": "unused",
+    "amount": 20,
+    "expiry_date": "10-10-2026",
+    "batch_id": "B-205",
+    "region": "Eldoret"
+  }
+]
